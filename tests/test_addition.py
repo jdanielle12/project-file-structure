@@ -1,4 +1,4 @@
-import addition
+from project_files import addition
 
 def test_addition():
     # Assert
